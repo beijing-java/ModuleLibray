@@ -1,0 +1,9 @@
+//总的配置
+ext {
+    whz = [
+            compileSdkVersion : 26,
+            minSdkVersion : 19,
+            targetSdkVersion : 26,
+            supportLibraryVersion : "26.1.0"
+    ]
+}
